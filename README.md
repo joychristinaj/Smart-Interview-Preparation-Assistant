@@ -5,12 +5,15 @@ A Python-based application that helps students prepare for placements by organiz
 
 This project helps students organize placement preparation by tracking interview topics, monitoring progress, and managing learning activities.
 
-# Features
-- Select job role 
-- View practice questions
-- Track completed topics 
-- Store progress
-- Simple dashboard
+## Features
+
+- Study ECE Core Topics
+- Study Software Topics
+- Practice Aptitude
+- Improve Communication Skills
+- Mark Topics as Completed
+- Track Preparation Progress
+- Ask Doubts and Get Guidance
 
 ## Technologies Used
 - Python

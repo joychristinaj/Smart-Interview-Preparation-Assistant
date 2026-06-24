@@ -1,6 +1,10 @@
 # Smart-Interview-Preparation-Assistant
 A Python-based application that helps students prepare for placements by organizing interview questions, tracking preparation progress, and generating practice tasks. 
 
+## Overview
+
+This project helps students organize placement preparation by tracking interview topics, monitoring progress, and managing learning activities.
+
 # Features
 - Select job role 
 - View practice questions

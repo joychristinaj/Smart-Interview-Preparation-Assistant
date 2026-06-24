@@ -16,12 +16,14 @@ A Python-based application that helps students prepare for placements by organiz
 
 ## Project Structure
 
+```text
 Smart-Interview-Preparation-Assistant/
 │
 ├── main.py
 ├── questions.txt
 ├── progress.txt
 └── README.md
+```
 
 ## Future Enhancements
 - AI-based interview question generation

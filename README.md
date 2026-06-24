@@ -7,3 +7,24 @@ A Python-based application that helps students prepare for placements by organiz
 - Track completed topics 
 - Store progress
 - Simple dashboard
+
+## Technologies Used
+- Python
+- File Handling
+- Git
+- GitHub
+
+## Project Structure
+
+Smart-Interview-Preparation-Assistant/
+│
+├── main.py
+├── questions.txt
+├── progress.txt
+└── README.md
+
+## Future Enhancements
+- AI-based interview question generation
+- Progress analytics dashboard
+- Personalized learning recommendations
+- Cloud deployment using AWS/Azure
